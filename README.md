@@ -1,4 +1,4 @@
-# 🧮 Multi-Threaded Matrix Multiplication Library
+# 🧮 Multi-Threaded Matrix Multiplication Library- BIL 304 Operating Systems Project
 
 [![Java](https://img.shields.io/badge/Java-11%2B-orange.svg)](https://openjdk.java.net/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
