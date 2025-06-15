@@ -5,7 +5,7 @@ All notable changes to the Multi-Threaded Matrix Multiplication Library are docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.0] - 2025-06-14
+## [2.0.0] 
 
 ### 🎉 Major Release - Complete Library Transformation
 
@@ -97,7 +97,7 @@ This release transforms the original assignment into a comprehensive, production
 - **Cache Optimization**: Block-based algorithms for better cache locality
 - **JIT Compilation**: Proper warm-up for accurate performance measurements
 
-## [1.0.0] - 2025-06-14 (Original Assignment)
+## [1.0.0] -(Original Assignment)
 
 ### ✨ Initial Release
 
@@ -117,21 +117,6 @@ This release transforms the original assignment into a comprehensive, production
 
 ---
 
-## 🔮 Future Roadmap
-
-### [2.1.0] - Planned Features
-
-- **GPU Acceleration**: CUDA/OpenCL support for massive matrices
-- **Distributed Computing**: Network-based matrix multiplication
-- **Advanced Algorithms**: Strassen's algorithm implementation
-- **Web Interface**: Browser-based matrix multiplication with visualizations
-
-### [2.2.0] - Enhanced Analytics
-
-- **Performance Profiling**: CPU and memory profiling integration
-- **Visualization**: Matrix operation visualizations
-- **Export Capabilities**: Results export to CSV/JSON formats
-- **Configuration Files**: XML/JSON configuration for batch operations
 
 ---
 
